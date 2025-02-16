@@ -1,58 +1,31 @@
 
+# **Nmap (Network Mapper)**  
 
-**Nmap(Network Mapper)** 
+### **Submitted By**  
+- **Qusai Sakerwala** - 16010122231  
+- **Himanshu Garg** - 16010122238  
+- **Ayush Nayak** - 16010122243  
+- **Mourvi Joshi** - 16010122279  
 
-Submitted By
+### **Guide**  
+- **Zaheed Shaikh**  
 
-**Qusai Sakerwala**
+### **Department of Computer Engineering**  
 
-16010122231
+---
 
-**Himanshu Garg**
+## **Contents**  
 
-16010122238
+| Section                       | Page |
+|-------------------------------|------|
+| **Introduction**              | iii  |
+| **Features/Characteristics**  | iv   |
+| **Methodology**               | v    |
+| **Results**                   | v    |
+| **Conclusion**                | xiv  |
+| **References**                | xiv  |  
 
-**Ayush Nayak**
-
-16010122243
-
-**Mourvi Joshi**
-
-16010122279
-
-
-Guide
-
-**Zaheed Shaikh**
-
-**Department of Computer Engineering**
-
-
-
-
-
-
-**Contents:**
-
-|**Introduction**……………………………………………………………………………..|iii|||||
-| - | - | :- | :- | :- | :- |
-|**Features/Characteristics**………………………………………………………………|iv|||||
-|**Methodology**………………………………………………………………………….......|v|||||
-|**Results**……………………………………………………………………………………..|v|||||
-|**Conclusion**…………………………………………………………………………………|xiv|||||
-|**References** ……………………………………………………………………………...|xiv|||||
-
-
-
-
-
-
-
-
-
-
-
-
+---
 ***Introduction*** 
 
 Nmap (Network Mapper) stands as a quintessential tool in the arsenal of network administrators and cybersecurity professionals due to its extensive capabilities in network exploration and security auditing. Originally created by Gordon Lyon (Fyodor) in 1997, Nmap was designed to provide a comprehensive and efficient means of scanning large and complex networks to gather critical information. Today, it has evolved into a widely utilized open-source utility that helps individuals and organizations enhance their security posture by detecting vulnerabilities, unauthorized devices, and potential points of attack.
@@ -65,10 +38,8 @@ The ongoing development of Nmap by an active open-source community ensures that 
 
 
 
-
-
 ***Features/Characteristics***
-
+---
 1. **Host Discovery**: Nmap efficiently identifies active devices on a network by sending ICMP (ping) requests or using other methods to determine which systems are live. This is a fundamental first step in network analysis, especially when managing large networks or performing penetration tests.
 1. **Port Scanning**: One of the core functions of Nmap is its ability to detect open ports on a device. These ports are crucial points of communication, and discovering which ones are open helps security professionals assess the potential entry points for attackers. Nmap supports various scanning techniques to perform thorough port scans, including TCP, UDP, and SCTP scanning.
 1. **Service and Version Detection**: Nmap goes beyond simple port scanning by identifying the specific services running on open ports and their versions. This is particularly useful for identifying outdated or vulnerable software, enabling security experts to address potential risks by updating or patching the services accordingly.
@@ -78,8 +49,9 @@ The ongoing development of Nmap by an active open-source community ensures that 
 1. **Nmap Scripting Engine (NSE)**: One of Nmap’s most powerful features, the Nmap Scripting Engine, allows users to write custom scripts or utilize a collection of pre-built scripts for a variety of purposes. These include vulnerability detection, service discovery, network monitoring, and even exploit testing. NSE enhances Nmap's capabilities, enabling automation of tasks that would otherwise be time-consuming.
 1. **Zenmap (GUI for Nmap)**: Zenmap is a graphical user interface (GUI) for Nmap, providing an intuitive and user-friendly interface that makes network scanning more accessible. Zenmap allows users to visually map out their network, generate reports, and save scan results in a format that’s easy to understand and analyze, making it a helpful tool for both beginners and advanced users.
 
-***Methodology and Results*** 
 
+***Methodology and Results*** 
+---
 To perform network scanning using Nmap, we utilized various commands to analyze different aspects of network security. Below are the methodologies followed in our assignment:
 
 1. **Checking Network Configuration:**
@@ -170,12 +142,12 @@ To perform network scanning using Nmap, we utilized various commands to analyze 
 ![](Aspose.Words.e69eece1-9021-4cdc-a6bb-8d3ff951b330.023.png)
 
 ***Conclusion***
-
-` `Nmap is a powerful and essential tool for network security analysis, penetration testing, and cybersecurity research. Its ability to perform host discovery, port scanning, service identification, and OS detection makes it invaluable for security professionals. Our study demonstrated the efficiency of Nmap in identifying vulnerabilities and assessing network configurations. The use of advanced scanning techniques, including stealth and aggressive scans, further emphasized its versatility in cybersecurity assessments. With its continuous updates and scripting capabilities, Nmap remains a crucial tool in modern network security.
+---
+Nmap is a powerful and essential tool for network security analysis, penetration testing, and cybersecurity research. Its ability to perform host discovery, port scanning, service identification, and OS detection makes it invaluable for security professionals. Our study demonstrated the efficiency of Nmap in identifying vulnerabilities and assessing network configurations. The use of advanced scanning techniques, including stealth and aggressive scans, further emphasized its versatility in cybersecurity assessments. With its continuous updates and scripting capabilities, Nmap remains a crucial tool in modern network security.
 
 
 **References**
-
+---
 1. [FreeCodeCamp - What is Nmap and How to Use It](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)
 1. [Official Nmap Website](https://nmap.org/)
 
