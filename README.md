@@ -1,6 +1,3 @@
-![](Aspose.Words.e69eece1-9021-4cdc-a6bb-8d3ff951b330.001.png)
-
-![Description: https://www.google.com/a/cpanel/somaiya.edu/images/logo.gif?service=google_gsuite](Aspose.Words.e69eece1-9021-4cdc-a6bb-8d3ff951b330.002.png)
 
 
 **Nmap(Network Mapper)** 
